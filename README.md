@@ -1,0 +1,2 @@
+# Dinofashion
+Proyecto de app
